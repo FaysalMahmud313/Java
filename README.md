@@ -22,7 +22,8 @@ Project all version
 
 To access the system:
 
-Check the repository package and the data folder.
+Check the repository package and the `data` folder.
+
 Login credentials are provided there.
 
 # Feel free to explore different features and functionalities of the project. Each version may include improvements or additional features.
