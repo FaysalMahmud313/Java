@@ -18,11 +18,11 @@ Project all version
 `java Start`
 
 
-#Login (Credentials)
+# Login (Credentials)
 
 To access the system:
 
 Check the repository package and the data folder.
 Login credentials are provided there.
 
-#Feel free to explore different features and functionalities of the project. Each version may include improvements or additional features.
+# Feel free to explore different features and functionalities of the project. Each version may include improvements or additional features.
