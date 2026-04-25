@@ -9,13 +9,13 @@ Project all version
 4. Open Command Prompt (CMD) in that folder.
 5. Compile the project using:
 
->javac *.java
+`javac *.java`
 
-[Make sure Java is properly installed and configured on your system.]
+>Make sure Java is properly installed and configured on your system.
 
 6. Run the project using:
 
->java Start
+`java Start`
 
 
 #Login (Credentials)
