@@ -1,2 +1,0 @@
-23-54000-3,Bkash Chandra,Male,AB+,23,23540003,Jani na,Tel Mara,0.0
-23-54036-3,Fahim ,Male,A+,23,23540363,Hemayetpur,Manager,50000.0
